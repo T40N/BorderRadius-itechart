@@ -31,5 +31,12 @@ body {
   width: 50%;
   aspect-ratio: 1 / 1;
   background-color: black;
-  border-radius: 1.2rem 2rem 0 0;
+  border-radius: 0.8rem 1.8rem 2.4rem 3.6rem;
+}
+
+.right__task {
+  width: 50%;
+  height: 70%;
+  background-color: black;
+  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
 }
